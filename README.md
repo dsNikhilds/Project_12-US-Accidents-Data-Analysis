@@ -6,6 +6,8 @@ Data source : US-Accidents Data : https://www.kaggle.com/sobhanmoosavi/us-accide
 
 Data structure: This csv file include 1.5 M rows and 47 coloumns.
 
+" 50+ Insights were found from the dataset. "
+
 ### Description
 
 This is a countrywide car accident dataset, which covers 49 states of the USA. This dataset has been collected in real-time, using multiple Traffic APIs and is collected from February 2016 to December 2020. Currently, there are about 1.5 million accident records in this dataset.
@@ -14,7 +16,9 @@ This is a countrywide car accident dataset, which covers 49 states of the USA. T
 
 US-Accidents can be used for numerous applications such as real-time accident prediction, studying accident hotspot locations, casualty analysis and extracting cause and effect rules to predict accidents, or studying the impact of precipitation or other environmental stimuli on accident occurrence.
 
-50+ Insights were found from the dataset.
+### Questions:
+
+
 
 I have tried to answer these questions with great depth and good visuals:
 
