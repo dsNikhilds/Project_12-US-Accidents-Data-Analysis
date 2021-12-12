@@ -6,7 +6,8 @@ Data source : US-Accidents Data : https://www.kaggle.com/sobhanmoosavi/us-accide
 
 Data structure: This csv file include 1.5 M rows and 47 coloumns.
 
-" 50+ Insights were found from the dataset. "
+" 50+ Insights were found from the dataset. " The data analysis part is done in Google colab platform.
+Librarires used: Pandas, Matplotlib, Seaborn, Numpy.
 
 ### Description
 
