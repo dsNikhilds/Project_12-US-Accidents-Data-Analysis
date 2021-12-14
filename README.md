@@ -2,16 +2,20 @@
 
 by Nikhil
 
-Data source : US-Accidents Data : https://www.kaggle.com/sobhanmoosavi/us-accidents
+Data source : 
+1. US-Accidents Data : https://www.kaggle.com/sobhanmoosavi/us-accidents
+2. US-Census (2020) Data: https://www.kaggle.com/darinhawley/us-2021-census-cities-populations-coordinates
 
-Data structure: This csv file include 1.5 M rows and 47 coloumns.
+Data structure: The US_Accident csv file include 1.5 M rows and 47 coloumns.
 
-" 50+ Insights were found from the dataset. " The data analysis part is done in Google colab platform.
+" 60+ Insights were found from the dataset. " The data analysis part is done in Google colab platform.
 Librarires used: Pandas, Matplotlib, Seaborn, Numpy.
 
 ### Description
 
 This is a countrywide car accident dataset, which covers 49 states of the USA. This dataset has been collected in real-time, using multiple Traffic APIs and is collected from February 2016 to December 2020. Currently, there are about 1.5 million accident records in this dataset.
+
+Apart from the US_Accident data set, I ahve also used a US population census dataset for each state and City, to verify the findings from Accident dataset with the population.
 
 ### Application of dataset
 
