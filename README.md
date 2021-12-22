@@ -176,7 +176,7 @@ Weather conditons can have drastic effects on the number of accident cases. Lets
 - In maximum cases of road accident, the Visibility range is between 5(mi) - 10(mi), which is quite good and thus it is not a major cause behind the accidents.
 - Weather condition was Fair most of the time and thus it is not a major cause behind the accidents.
 
-
+#### If you like my work, you can fork it and/or upvote my notebook here: https://www.kaggle.com/nikhilbhathi/50-insights-easy-to-learn-eda-us-accidents
 
 ### Citation
 - Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, arXiv preprint arXiv:1906.05409 (2019).
