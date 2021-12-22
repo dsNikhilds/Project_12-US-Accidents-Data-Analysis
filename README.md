@@ -61,7 +61,7 @@ Next, I see which state reported the most number of accidents.
 
 ![state](/Images/State.png)
 
-- I see that California (CA) had the most number of accidents,followed by Florida, Oregon, Texas and New york. It appears to be right as California also has the largest population.
+- California (CA) had the most number of accidents,followed by Florida, Oregon, Texas and New york. It appears to be right as California also has the largest population.
 - In past 5 years, on average 246 accidents (daily) happened in California, implies approximately 10 accidents per hour.
 
 ### (c) Timezone:
