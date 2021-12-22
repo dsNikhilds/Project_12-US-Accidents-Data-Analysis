@@ -42,6 +42,9 @@ I have tried to answer these questions with great depth and good visuals:
 
 ### Data Analysis:
 
+#### I have not included all the figures and Insights below, look at the python notebook for everything.
+
+
 The Number column had almost 70% data missing, Precipitation(in) and Wind_Chill(F) also had >=30% data missing. Since, Number column (which shows the street number) had majority of its data missing, I dropped it.
 
 ### (a) City: 
